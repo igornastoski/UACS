@@ -1,0 +1,11 @@
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Projects\UACS\IP\Code\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
