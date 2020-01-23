@@ -4,13 +4,16 @@
 @{
     ViewBag.Title = "Index";
 }
-<div>
-    <h2>Departments List</h2>
-    <ul> @foreach (Department department in @Model)
-    {
-        <li>@Html.ActionLink(department.Name, "Index", "Employee", new { id = department.ID }, null)</li>
-    }
-    </ul>
-</div>
+    <div>
+        <h2>Departments List</h2>
+        @Html.ActionLink("Create new department", "Create")
+
+        <ul>
+            @foreach (Department department in @Model)
+            {
+                <li>@Html.ActionLink(department.Name, "Index", "Employee", new { id = department.ID }, null)</li>
+            }
+        </ul>
+    </div>
 
 

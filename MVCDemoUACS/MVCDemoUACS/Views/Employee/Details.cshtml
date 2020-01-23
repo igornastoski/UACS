@@ -4,7 +4,7 @@
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Empoloyee Details</h2>
 
 
 <table class="table">
@@ -49,4 +49,4 @@
         </td>
     </tr>
 </table>
-@Html.ActionLink("Back to List", "Index")
+@Html.ActionLink("Back to Employee List", "Index", new { Id = @Model.DepartmentID})
